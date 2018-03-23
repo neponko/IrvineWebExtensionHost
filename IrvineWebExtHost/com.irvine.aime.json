@@ -1,0 +1,7 @@
+{
+	"name"				: "com.irvine.aime",
+	"description"		: "Send URLs to Irvine",
+	"path"				: "IrvineWebExtHost.exe",
+	"type"				: "stdio",
+	"allowed_extensions": [ "download-with-irvine@aime" ]
+}
